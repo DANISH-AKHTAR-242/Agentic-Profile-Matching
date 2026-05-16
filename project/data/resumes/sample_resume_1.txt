@@ -1,0 +1,10 @@
+Name: Rahul Verma
+Experience: 8 years
+Skills: Python, FastAPI, AWS, Docker, Kubernetes, PostgreSQL
+Education: Bachelors in Computer Science
+Projects:
+- Payments platform modernization for fintech APIs
+- Distributed worker orchestration with autoscaling
+Certifications:
+- AWS Certified Solutions Architect
+

@@ -1,0 +1,10 @@
+Name: Priya Nair
+Experience: 6 years
+Skills: React, JavaScript, TypeScript, Node.js, AWS, MongoDB
+Education: Masters in Information Technology
+Projects:
+- Frontend architecture migration to React at scale
+- Full-stack feature delivery for SaaS analytics platform
+Certifications:
+- Certified Kubernetes Application Developer
+

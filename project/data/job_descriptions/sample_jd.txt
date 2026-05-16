@@ -1,0 +1,15 @@
+Senior Full-Stack Engineer
+
+Must-have:
+- React
+- Python
+- 5+ years of experience
+
+Nice-to-have:
+- AWS
+- Docker
+- Kubernetes
+
+Education:
+- Bachelors or above
+

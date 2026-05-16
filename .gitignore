@@ -1,0 +1,63 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Build / packaging ---
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# --- Jupyter / notebooks ---
+.ipynb_checkpoints/
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# --- Secrets / env files ---
+.env
+.env.*
+*.pem
+*.key
+
+# --- Logs / temp ---
+*.log
+logs/
+tmp/
+temp/
+
+# --- Project-specific runtime artifacts ---
+project/db/session_state.json
+project/db/chroma_db/*
+!project/db/chroma_db/.gitkeep
+project/data/resumes/*.pdf
+project/data/resumes/*.docx
+project/data/resumes/*.tmp
+
+# --- Streamlit local state ---
+.streamlit/secrets.toml
+
+# --- Model / cache directories ---
+.cache/
+hf_cache/
+model_cache/
+

@@ -1,0 +1,10 @@
+Name: Kavya Menon
+Experience: 5 years
+Skills: Python, Machine Learning, NLP, LangChain, Azure, SQL
+Education: Masters in Artificial Intelligence
+Projects:
+- NLP classification pipeline for customer support routing
+- LLM-based recommendation service for recruiter workflow automation
+Certifications:
+- Azure AI Engineer Associate
+
